@@ -1,0 +1,34 @@
+{
+  "name": "command-line-utility-for-payment-dates",
+  "version": "1.0.0",
+  "description": "This project generates payment dates for the sales department based on certain rules. It provides a web application interface to generate payment dates or you can run a script separately to generate the CSV file directly.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "css-loader": "^6.7.3",
+    "style-loader": "^3.3.2",
+    "vue": "^3.3.2",
+    "vue-loader": "^17.1.1",
+    "vue-template-compiler": "^2.7.14",
+    "webpack": "^5.83.1",
+    "webpack-cli": "^5.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohamedChermiti/command-line-utility-for-payment-dates.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohamedChermiti/command-line-utility-for-payment-dates/issues"
+  },
+  "homepage": "https://github.com/MohamedChermiti/command-line-utility-for-payment-dates#readme"
+}
